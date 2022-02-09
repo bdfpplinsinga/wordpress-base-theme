@@ -21,5 +21,3 @@ Zo maken we beter onderscheid tussen secties, componenten en blokken en blijft d
 * [https://webpack.js.org/guides/asset-modules/](https://webpack.js.org/guides/asset-modules/)
 
 ## New setup with webpack
-
-De setup maakt gebruik van webpack. We gebruiken tailwind (v3) en schrijven css ipv scss. Door het gebruik van postcss en postcss nesting kunnen we de css schrijven zoals je dat met Sass gewend bent.
