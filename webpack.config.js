@@ -74,5 +74,4 @@ module.exports = {
 			fix: true
 		})
 	],
-	watch: true
 };
